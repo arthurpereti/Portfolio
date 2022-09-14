@@ -1,6 +1,5 @@
 *{
     font-family: 'Courier New', Courier, monospace;
-    letter-spacing: 2px;
     padding: 0px;
     margin: 0px;
 }
@@ -14,19 +13,19 @@ body{
 }
 
 .icontext{
-    display: flex;
+    display: flex;                                                                                                                    
     align-items: center;
 }
 
 #iconheader{
-    width: 45px;
+    width: 40px;
 }
 
 .textheader{  
     color: rgb(100, 11, 100);
     font-size: 25px;
     margin-left: 10px;
-    margin-right: 1350px;
+    margin-right: 1070px;
 }
 
 .linkheader{
