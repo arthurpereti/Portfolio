@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 .topo{
@@ -69,25 +69,52 @@ body{
 
 /* ---------------------------------------------------------- */
 
+#imgfieldset{
+    padding-top: 20px;
+    position: flex; 
+    margin-left: 240px;
+    width: 100px;
+}
+
+
 .fieldset{
-    border: 1px solid black;
+
+    border: 1px solid #c6c6cc;
     border-radius: 15px;
+    margin-top: 50px;
     margin-left: 700px;
     margin-right: 700px;
+    margin-bottom: 50px;
+    background-color: white;
 }
 
 .titlefieldset{
-    font-size: 20px;
+    font-size: 23px;
     text-align: center;
-    padding: 20px;
+    padding: 30px;
 }
 
 .textfieldset{
     margin: 0px;
     font-size: 15px;
-    text-decoration: none;
+    text-align: center;
 }
 
+#pfieldset1{
+    font-size: 20px;
+}
+
+#pfieldset2{
+    color:blueviolet ;
+    font-size: 35px;
+    padding-bottom: 15px ;
+}
+
+#pfieldset3{
+    font-size: 25px;
+    color: black;
+    padding-bottom: 10px;
+}
 /* ---------------------------------------------------------- */
 
 .title{
