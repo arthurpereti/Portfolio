@@ -71,8 +71,6 @@ body{
 
 #imgfieldset{
     padding-top: 20px;
-    position: flex; 
-    margin-left: 240px;
     width: 100px;
 }
 
@@ -82,8 +80,6 @@ body{
     border: 1px solid #c6c6cc;
     border-radius: 15px;
     margin-top: 50px;
-    margin-left: 700px;
-    margin-right: 700px;
     margin-bottom: 50px;
     background-color: white;
 }
